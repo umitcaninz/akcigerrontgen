@@ -1,0 +1,11 @@
+openai
+streamlit
+pandas
+tensorflow
+transformers
+streamlit_option_menu
+pymongo
+datetime
+cv2
+numpy
+tensorflow.keras.models

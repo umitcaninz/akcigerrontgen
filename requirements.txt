@@ -8,4 +8,4 @@ pymongo
 datetime
 numpy
 opencv-python
-cv2
+

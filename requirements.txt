@@ -7,4 +7,5 @@ streamlit_option_menu
 pymongo
 datetime
 numpy
+opencv-python
 cv2
